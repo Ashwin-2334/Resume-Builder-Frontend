@@ -1,16 +1,26 @@
-# resume_builder
+# AI-Powered Resume Builder
 
-A new Flutter project.
+This is a full-stack **AI-powered resume builder** developed using **Flutter** for the frontend and **Node.js (Express)** for the backend.  
+The application helps users generate professional resumes with **AI-generated summaries** and **recommended skills** based on job titles.  
+It also allows users to fill out a **multi-step form** in Flutter and download a clean, well-formatted **PDF resume** instantly.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Full-stack architecture using Flutter (frontend) and Node.js with Express (backend)  
+- Integrated **OpenRouter API** for AI-generated profile summaries and skill recommendations  
+- User-friendly **multi-step form** to collect candidate details  
+- Generates **professional PDF resumes** with clean formatting and structured sections  
+- Real-time PDF generation with optimized backend performance  
+- Secure and reliable backend, deployed on **Render**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- **Frontend:** Flutter  
+- **Backend:** Node.js, Express.js  
+- **AI Integration:** OpenRouter API  
+- **Deployment:** Render  
+- **PDF Generation:** pdf-lib and pdfkit
